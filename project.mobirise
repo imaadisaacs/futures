@@ -56,7 +56,8 @@
     "mbrsiteDomain": "kkcvroojow",
     "robotsSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {

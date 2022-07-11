@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Futures Academy - Online High School-clone",
-    "currentPage": "frequently-asked-questions.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2663,7 +2663,7 @@
         }
       ]
     },
-    "join-our-team.html": {
+    "careers.html": {
       "settings": {
         "meta_descr": "Join the Futures Academy Team!\nAn affordable world-class education.",
         "title": "Join our team",

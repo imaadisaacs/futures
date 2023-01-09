@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Futures Academy - Online High School-clone",
-    "currentPage": "index.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3264,7 +3264,8 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_sourceTheme": "mobirise4"
         },
         {
           "alias": false,
